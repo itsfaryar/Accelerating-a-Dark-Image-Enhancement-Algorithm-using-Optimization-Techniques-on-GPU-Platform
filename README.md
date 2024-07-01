@@ -1,1 +1,1 @@
-# Parallel-Dark-Image-Enhancement-Using-CUDA
+# Accelerating a Dark Image Enhancement Algorithm using Optimization Techniques on GPU Platform
